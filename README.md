@@ -1,5 +1,9 @@
-Sources for photos used: 
+[![LinkedIn][linkedin-shield]][linkedin-url-Bucsa]
 
-- Dog: [Karseten Winegeart on Unsplash](https://unsplash.com/photos/5PVXkqt2s9k)
-- Cat: [Alvan Nee on Unsplash](https://unsplash.com/photos/ZCHj_2lJP00)
-- Rabbit: [Emiliano Vittoriosi on Unsplash](https://unsplash.com/photos/3FSBkX4yG80)
+
+# Basic Flash Project
+
+This project shows the basics tools for creating routes using Flask in Python. 
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url-Bucsa]: https://www.linkedin.com/in/justin-bucsa
